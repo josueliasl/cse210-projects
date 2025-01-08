@@ -9,7 +9,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/sandbox/Sandbox/Sandbox.csproj",
+                "${cse210-projects}/sandbox/Sandbox/Sandbox.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -22,7 +22,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week01/Exercise1/Exercise1.csproj",
+                "${cse210-projects}/week01/Exercise1/Exercise1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -35,7 +35,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week01/Exercise2/Exercise2.csproj",
+                "${cse210-projects}/week01/Exercise2/Exercise2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -48,7 +48,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week01/Exercise3/Exercise3.csproj",
+                "${cse210-projects}/week01/Exercise3/Exercise3.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -61,7 +61,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week01/Exercise4/Exercise4.csproj",
+                "${cse210-projects}/week01/Exercise4/Exercise4.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -74,7 +74,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week01/Exercise5/Exercise5.csproj",
+                "${cse210-projects}/week01/Exercise5/Exercise5.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -87,7 +87,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week02/Resumes/Resumes.csproj",
+                "${cse210-projects}/week02/Resumes/Resumes.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -100,7 +100,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week02/Journal/Journal.csproj",
+                "${cse210-projects}/week02/Journal/Journal.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -113,7 +113,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week03/Fractions/Fractions.csproj",
+                "${cse210-projects}/week03/Fractions/Fractions.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -126,7 +126,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week03/ScriptureMemorizer/ScriptureMemorizer.csproj",
+                "${cse210-projects}/week03/ScriptureMemorizer/ScriptureMemorizer.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -139,7 +139,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week04/YouTubeVideos/YouTubeVideos.csproj",
+                "${cse210-projects}/week04/YouTubeVideos/YouTubeVideos.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -152,7 +152,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week04/OnlineOrdering/OnlineOrdering.csproj",
+                "${cse210-projects}/week04/OnlineOrdering/OnlineOrdering.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -165,7 +165,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week05/Homework/Homework.csproj",
+                "${cse210-projects}/week05/Homework/Homework.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -178,7 +178,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week05/Mindfulness/Mindfulness.csproj",
+                "${cse210-projects}/week05/Mindfulness/Mindfulness.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -191,7 +191,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week06/Shapes/Shapes.csproj",
+                "${cse210-projects}/week06/Shapes/Shapes.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -204,7 +204,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week06/EternalQuest/EternalQuest.csproj",
+                "${cse210-projects}/week06/EternalQuest/EternalQuest.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -217,7 +217,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week07/ExerciseTracking/ExerciseTracking.csproj",
+                "${cse210-projects}/week07/ExerciseTracking/ExerciseTracking.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
